@@ -7,4 +7,4 @@ Repositorio para Minería de Datos
 
 - [Examen Diagnóstico](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Ex-Diagnostico_1869764.pdf)
 
--Tarea
+- Tarea
