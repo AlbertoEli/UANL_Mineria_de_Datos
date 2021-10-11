@@ -25,4 +25,4 @@ Repositorio para Minería de Datos
 
 - [Segundo Avance PIA](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/AvancePIA_II_Grupo01_Equipo4_.ipynb) 
 
-
+- [Ejercicio de tecnicas de minería](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Tecnicas_Equipo4.ipynb)
