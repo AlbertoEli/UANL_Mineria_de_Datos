@@ -29,7 +29,7 @@ Repositorio para Minería de Datos
 
 - [Segundo Avance PIA (Corregido)](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/AvancePIA_II_Grupo01_Equipo4_Corregido.ipynb)
 
-##Fase 3
+## Fase 3
 
 - [Notebook Final](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Notebookfinal_Equipo4.ipynb)
 
